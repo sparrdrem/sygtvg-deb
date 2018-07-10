@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=0.1.0.0
+Type=Application
+Name=Sam&Yoe Group: The Video Game (Alpha)
+Exec="/usr/share/sygtvg-test-0100/launch/launch.sh"
+Icon="/usr/share/sygtvg-test-0100/launch/sygtvg.png"
+Terminal=false
+Catergories=Game
