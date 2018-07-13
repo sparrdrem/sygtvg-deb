@@ -3,14 +3,14 @@ Section: games
 Priority: optional
 Maintainer: sparrdrem <samyoethe2@gmail.com>
 Build-Depends: debhelper (>=9)
-Standards-Version: 0.1.0-0
+Standards-Version: 3.9.6
 Homepage: https://sparrosdeveloperteam.github.io/SYGTVG-REL/
 #Vcs-Git: git://anonscm.debian.org/cgit/collab-maint/sygtvg-test-0100.git
 #Vcs-Browser: https://anonscm.debian.org/cgit/collab-maint/sygtvg-test-0100.git
 
 Package: sygtvg-test-0100
 Architecture: all
-Depends: easyrpg-player (>= 0.5.3-1)
+Depends: easyrpg-player (>= 0.5.3-1), bug-report (>=0.1.0-0)
 Description: Sam&Yoe Group The Video Game Alpha 0100
  The Official Sam&Yoe Group Video Game RPG. This is a beta
  build which means this is under construction. Not
